@@ -1,5 +1,4 @@
 # Compiled JavaScript (if you're using TypeScript)
-dist/
 build/
 *.js
 *.js.map
