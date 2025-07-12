@@ -1,13 +1,1 @@
-# Compiled JavaScript (if you're using TypeScript)
-dist/
-build/
-*.js
-*.js.map
-
-# Node modules and logs
 node_modules/
-*.log
-
-# Environment and editor files
-.env*
-.vscode
