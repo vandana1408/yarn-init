@@ -1,2 +1,2 @@
-# yarn-init
-`yarn-init` your next knitting project!
+# yarn-start
+`yarn-start` your next knitting project!
