@@ -7,7 +7,7 @@ function App() {
   const [message, setMessage] = useState('');
 
   useEffect(() => {
-    fetch('https://yarn-start.onrender.com/')
+    fetch('http://localhost:5000/')
       .then(response => response.text())
       .then(data => setMessage(data))
       .catch(error => console.error('Error fetching from backend:', error));
